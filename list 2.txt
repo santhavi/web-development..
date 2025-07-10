@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+body {
+background-image:url("Blue-Lotus-Technology.jpg");
+background-size:cover;
+}
+</style>
+<h1 style="color:blue;">Site </h1>
+<ol>
+      <li> avc </li>
+      <li> panimalar hut</li>
+      <li> srm</li>
+      <li> egs </li>
+      <li> sathyabama </li>
+      <li> mass </li>
+</ol>
+
+<h1 style="color:blue;">Menu</h1>
+<ul>
+      <li> ECE </li>
+      <li> INFORMATION TECHNOLOGY </li>
+      <li> COMPUTER SCIENCE </li>
+      <li> MECHNICAL </li>
+      <li> EEE </li>
+      <li> ICE </li>
+</ul>
+</style>
+</body>
+</html>
